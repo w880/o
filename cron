@@ -6,8 +6,8 @@ import os
 from trivia import functions
 
 target = ''
-token = os.environ['TOKEN']
-bot = 'goperto'  # ID from the private conversation with the bot
+token = os.environ['1811741601:AAGnWursMxKSorOgvjuugS6InOhEeyCRZ4k']
+bot = 'lll5l'  # ID from the private conversation with the bot
 
 
 def post(text, channel, client):
